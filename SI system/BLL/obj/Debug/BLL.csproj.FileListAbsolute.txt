@@ -1,0 +1,14 @@
+E:\SEMISTER11\AP.NET\LAB\SI system\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\SEMISTER11\AP.NET\LAB\SI system\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\SEMISTER11\AP.NET\LAB\SI system\BLL\bin\Debug\BLL.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\BLL\bin\Debug\BLL.pdb
+E:\SEMISTER11\AP.NET\LAB\SI system\BLL\bin\Debug\AutoMapper.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\BLL\bin\Debug\DAL.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\BLL\bin\Debug\EntityFramework.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\BLL\bin\Debug\DAL.pdb
+E:\SEMISTER11\AP.NET\LAB\SI system\BLL\bin\Debug\DAL.dll.config
+E:\SEMISTER11\AP.NET\LAB\SI system\BLL\bin\Debug\AutoMapper.xml
+E:\SEMISTER11\AP.NET\LAB\SI system\BLL\bin\Debug\EntityFramework.xml
+E:\SEMISTER11\AP.NET\LAB\SI system\BLL\obj\Debug\BLL.csproj.Up2Date
+E:\SEMISTER11\AP.NET\LAB\SI system\BLL\obj\Debug\BLL.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\BLL\obj\Debug\BLL.pdb

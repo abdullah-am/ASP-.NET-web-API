@@ -1,0 +1,741 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Controllers\\ParentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SI system\\Controllers\\ParentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Controllers\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SI system\\Controllers\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Interfaces\\IRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Interfaces\\IRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\Services\\StudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\Services\\StudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\StudentRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Repos\\StudentRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Controllers\\AttendanceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SI system\\Controllers\\AttendanceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Controllers\\ClassScheduleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SI system\\Controllers\\ClassScheduleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\DataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\DataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\TableModels\\Token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\EF\\TableModels\\Token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\TokenRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Repos\\TokenRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SI system\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\TokenDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\DTOs\\TokenDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\StudentDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\DTOs\\StudentDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Auth\\Logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SI system\\Auth\\Logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\UserRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Repos\\UserRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\Repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Repos\\Repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\ParentRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Repos\\ParentRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\ClassScheduleRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Repos\\ClassScheduleRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\AttendanceRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Repos\\AttendanceRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\Scontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\EF\\Scontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\TableModels\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\EF\\TableModels\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\TableModels\\ClassSchedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\EF\\TableModels\\ClassSchedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\TableModels\\Parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\EF\\TableModels\\Parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\TableModels\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\EF\\TableModels\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\TableModels\\Attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\EF\\TableModels\\Attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\Services\\ParentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\Services\\ParentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\Services\\ClassScheduleService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\Services\\ClassScheduleService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\Services\\AttendanceService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\Services\\AttendanceService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\StudentClassScheduleDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\DTOs\\StudentClassScheduleDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\StudentAttendanceDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\DTOs\\StudentAttendanceDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\ParentStudentDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\DTOs\\ParentStudentDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\SignUpDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\DTOs\\SignUpDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\ParentDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\DTOs\\ParentDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\LoginDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\DTOs\\LoginDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\AttendanceDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\DTOs\\AttendanceDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Interfaces\\IAuth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Interfaces\\IAuth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Migrations\\202409290550142_InitDB3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\202409290550142_InitDB3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Migrations\\202409282154172_InitDB2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\202409282154172_InitDB2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SI system\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Migrations\\Configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\Configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Migrations\\202409272256425_InitDB1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\202409272256425_InitDB1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\ClassScheduleDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\DTOs\\ClassScheduleDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SI system\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SI system\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAAAIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:39:26.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T21:29:07.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StudentService.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\Services\\StudentService.cs",
+              "RelativeToolTip": "BLL\\Services\\StudentService.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:36:09.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\StudentRepo.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\StudentRepo.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAIwEEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T22:54:23.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "SI system\\Controllers\\AttendanceController.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "SI system\\Controllers\\AttendanceController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwGEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:13:25.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassScheduleController.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Controllers\\ClassScheduleController.cs",
+              "RelativeDocumentMoniker": "SI system\\Controllers\\ClassScheduleController.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Controllers\\ClassScheduleController.cs",
+              "RelativeToolTip": "SI system\\Controllers\\ClassScheduleController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAowFoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:14:15.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParentController.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Controllers\\ParentController.cs",
+              "RelativeDocumentMoniker": "SI system\\Controllers\\ParentController.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Controllers\\ParentController.cs",
+              "RelativeToolTip": "SI system\\Controllers\\ParentController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowGsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T04:47:11.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\DataAccess.cs",
+              "RelativeToolTip": "DAL\\DataAccess.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwBAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T22:37:48.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Token.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\TableModels\\Token.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\Token.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\TableModels\\Token.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\Token.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:13:15.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AuthService.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\Services\\AuthService.cs",
+              "RelativeToolTip": "BLL\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwGgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:00:00.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TokenRepo.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\TokenRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\TokenRepo.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\TokenRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\TokenRepo.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T23:10:07.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SI system\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SI system\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:16:51.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\TokenDTO.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\TokenDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\TokenDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:55:03.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentDTO.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StudentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T23:17:46.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Auth\\Logged.cs",
+              "RelativeDocumentMoniker": "SI system\\Auth\\Logged.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Auth\\Logged.cs",
+              "RelativeToolTip": "SI system\\Auth\\Logged.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:36:03.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T21:36:28.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T21:38:35.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ParentRepo.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\ParentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ParentRepo.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\ParentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ParentRepo.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:30:53.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClassScheduleRepo.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\ClassScheduleRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ClassScheduleRepo.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\ClassScheduleRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ClassScheduleRepo.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:32:01.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AttendanceRepo.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\AttendanceRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\AttendanceRepo.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Repos\\AttendanceRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\AttendanceRepo.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:31:37.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Scontext.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\Scontext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Scontext.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\Scontext.cs",
+              "RelativeToolTip": "DAL\\EF\\Scontext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T19:17:16.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\TableModels\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\User.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\TableModels\\User.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\User.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBQAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:52:28.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClassSchedule.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\TableModels\\ClassSchedule.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\ClassSchedule.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\TableModels\\ClassSchedule.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\ClassSchedule.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T05:22:27.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\TableModels\\Parent.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\Parent.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\TableModels\\Parent.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\Parent.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T20:14:41.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\TableModels\\Student.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\Student.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\TableModels\\Student.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\Student.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T19:23:30.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\TableModels\\Attendance.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\Attendance.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\EF\\TableModels\\Attendance.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\Attendance.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T05:17:53.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ParentService.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\Services\\ParentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ParentService.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\Services\\ParentService.cs",
+              "RelativeToolTip": "BLL\\Services\\ParentService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:41:05.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ClassScheduleService.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\Services\\ClassScheduleService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ClassScheduleService.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\Services\\ClassScheduleService.cs",
+              "RelativeToolTip": "BLL\\Services\\ClassScheduleService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:22:27.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\Services\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AttendanceService.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\Services\\AttendanceService.cs",
+              "RelativeToolTip": "BLL\\Services\\AttendanceService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:21:48.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StudentClassScheduleDTO.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\StudentClassScheduleDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentClassScheduleDTO.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\StudentClassScheduleDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StudentClassScheduleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:14:24.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudentAttendanceDTO.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\StudentAttendanceDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentAttendanceDTO.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\StudentAttendanceDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StudentAttendanceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:13:49.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ParentStudentDTO.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\ParentStudentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ParentStudentDTO.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\ParentStudentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ParentStudentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:09:07.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SignUpDTO.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\SignUpDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\SignUpDTO.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\SignUpDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\SignUpDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:11:14.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ParentDTO.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\ParentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ParentDTO.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\ParentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ParentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T23:18:27.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\LoginDTO.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T23:18:06.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AttendanceDTO.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\AttendanceDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\AttendanceDTO.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\AttendanceDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\AttendanceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:36:48.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IAuth.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Interfaces\\IAuth.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IAuth.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Interfaces\\IAuth.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IAuth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:20:45.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "202409290550142_InitDB3.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Migrations\\202409290550142_InitDB3.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202409290550142_InitDB3.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Migrations\\202409290550142_InitDB3.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202409290550142_InitDB3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:50:18.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "202409282154172_InitDB2.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Migrations\\202409282154172_InitDB2.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202409282154172_InitDB2.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Migrations\\202409282154172_InitDB2.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202409282154172_InitDB2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:54:22.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Web.config",
+              "RelativeDocumentMoniker": "SI system\\Web.config",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\SI system\\Web.config",
+              "RelativeToolTip": "SI system\\Web.config",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAC4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-26T20:41:40.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:35:26.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "202409272256425_InitDB1.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Migrations\\202409272256425_InitDB1.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202409272256425_InitDB1.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Migrations\\202409272256425_InitDB1.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202409272256425_InitDB1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:56:47.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ClassScheduleDTO.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\ClassScheduleDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ClassScheduleDTO.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\DTOs\\ClassScheduleDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ClassScheduleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:37:50.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:18:46.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\ASP-.NET-web-API\\SI system\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:18:25.532Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\obj\Debug\SI system.csproj.AssemblyReference.cache
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\obj\Debug\SI system.csproj.CoreCompileInputs.cache
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\SI system.dll.config
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\SI system.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\SI system.pdb
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\csc.exe
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\csc.exe.config
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\csc.rsp
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\csi.exe
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\csi.exe.config
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\csi.rsp
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\Microsoft.Managed.Core.targets
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.AppContext.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Collections.Immutable.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Console.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Globalization.Calendars.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.IO.Compression.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.IO.FileSystem.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Net.Http.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Net.Sockets.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Reflection.Metadata.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.ValueTuple.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Xml.XmlDocument.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Xml.XPath.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\vbc.exe
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\vbc.exe.config
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\vbc.rsp
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\VBCSCompiler.exe
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\roslyn\VBCSCompiler.exe.config
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\BLL.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\EntityFramework.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\EntityFramework.SqlServer.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\Newtonsoft.Json.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\System.Net.Http.Formatting.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\System.Web.Http.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\System.Web.Http.WebHost.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\AutoMapper.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\DAL.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\BLL.pdb
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\EntityFramework.xml
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\EntityFramework.SqlServer.xml
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\Newtonsoft.Json.xml
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\System.Net.Http.Formatting.xml
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\System.Web.Http.xml
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\System.Web.Http.WebHost.xml
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\AutoMapper.xml
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\DAL.pdb
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\bin\DAL.dll.config
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\obj\Debug\SI system.csproj.Up2Date
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\obj\Debug\SI system.dll
+E:\SEMISTER11\AP.NET\LAB\SI system\SI system\obj\Debug\SI system.pdb
